@@ -219,7 +219,7 @@ const Navbar = () => {
           {/* Left side: contact */}
           <div className="flex items-center gap-2 sm:gap-4 overflow-hidden">
             <a
-              href="mailto:contact@anshinfotech.org"
+              href="mailto:viqtechnologies@gmail.com"
               className="
                 flex items-center gap-1.5 sm:gap-2 
                 transition-colors duration-200
