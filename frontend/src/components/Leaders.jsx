@@ -287,7 +287,7 @@ const directors = [
   {
     id: 2,
    name: "Ashish Jalota",
-    role: "Adviser",
+    role: "Adviser of VIQ Technologies",
     img: director1,
     linkedin: "https://www.linkedin.com/in/ashishjalota/",
     description:
