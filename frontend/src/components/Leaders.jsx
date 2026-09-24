@@ -278,7 +278,7 @@ const directors = [
     name: "Vishal Sharma",
     role: "Founder of VIQ Technologies",
     img: director2,
-    linkedin: "https://www.linkedin.com/in/ashishjalota/",
+    linkedin: "#",
     description:
     "Vishal Sharma is a Director at VIQ Technologies with *20+ years of professional experience* in Sales, Marketing, Education Consultancy, and Career Counselling. He has established strong associations with *colleges and universities across Punjab, Haryana, Himachal Pradesh, Uttarakhand, Rajasthan, Jammu & Kashmir, and Bangalore. His expertise in the education sector focuses on **strategic partnerships, student guidance, and career-oriented solutions.",
       tagline: ["Leadership", "Strategy", "Vision"],
