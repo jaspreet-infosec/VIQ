@@ -322,28 +322,36 @@ const Footer = () => {
                 </div>
 
                 <div
-                  className={`flex gap-3 items-center transition-transform duration-300 hover:translate-x-1 ${
-                    isVisible
-                      ? "animate-fade-in-up delay-500"
-                      : "before-animation"
-                  }`}
-                >
-                  <i className="fas fa-phone-alt text-[#D9A52E] text-lg min-w-5"></i>
-                  <a
-                    href="tel:+917986067505"
-                    className="text-[#F1F5F9] text-md transition-colors duration-300 hover:text-[#D9A52E]"
-                  >
-                    +91-79860 67505
-                  </a>
-                  <br></br>
-                  <i className="fas fa-phone-alt text-[#D9A52E] text-lg min-w-5"></i>
-                  <a
-                    href="tel:+91-89680 92326"
-                    className="text-[#F1F5F9] text-md transition-colors duration-300 hover:text-[#D9A52E]"
-                  >
-                    +91-89680 92326
-                  </a>
-                </div>
+  className={`flex flex-col gap-3 transition-transform duration-300 hover:translate-x-1 ${
+    isVisible
+      ? "animate-fade-in-up delay-500"
+      : "before-animation"
+  }`}
+>
+  {/* First Number */}
+  <div className="flex items-center gap-3">
+    <i className="fas fa-phone-alt text-[#D9A52E] text-lg min-w-5"></i>
+
+    <a
+      href="tel:+917986067505"
+      className="text-[#F1F5F9] text-md transition-colors duration-300 hover:text-[#D9A52E]"
+    >
+      +91-79860 67505
+    </a>
+  </div>
+
+  {/* Second Number */}
+  <div className="flex items-center gap-3">
+    <i className="fas fa-phone-alt text-[#D9A52E] text-lg min-w-5"></i>
+
+    <a
+      href="tel:+918968092326"
+      className="text-[#F1F5F9] text-md transition-colors duration-300 hover:text-[#D9A52E]"
+    >
+      +91-89680 92326
+    </a>
+  </div>
+</div>
                 <div
                   className={`flex gap-3 items-center transition-transform duration-300 hover:translate-x-1 ${
                     isVisible
