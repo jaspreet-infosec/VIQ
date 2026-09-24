@@ -361,7 +361,7 @@ const Footer = () => {
                 >
                   <i className="fas fa-envelope text-[#D9A52E] text-lg min-w-5"></i>
                   <a
-                    href="mailto:contact@anshinfotech.org"
+                    href="mailto:viqtechnologies@gmail.com"
                     className="text-[#F1F5F9] text-md transition-colors duration-300 hover:text-[#D9A52E]"
                   >
                     viqtechnologies@gmail.com
