@@ -317,7 +317,7 @@ const Footer = () => {
                   <i className="fas fa-map-marker-alt text-[#D9A52E] text-lg mt-1 min-w-5"></i>
 
                   <p className="text-[#F1F5F9] text-md leading-relaxed space-y-3 marker:text-xl">
-                    VIQ Technologies SCF2, 2nd floor, GTB market Khanna, Punjab
+                    SCF2, 2nd floor, GTB market Khanna, Punjab
                   </p>
                 </div>
 
@@ -330,10 +330,17 @@ const Footer = () => {
                 >
                   <i className="fas fa-phone-alt text-[#D9A52E] text-lg min-w-5"></i>
                   <a
-                    href="tel:+918427899400"
+                    href="tel:+917986067505"
                     className="text-[#F1F5F9] text-md transition-colors duration-300 hover:text-[#D9A52E]"
                   >
                     +91-79860 67505
+                  </a>
+                  <i className="fas fa-phone-alt text-[#D9A52E] text-lg min-w-5"></i>
+                  <a
+                    href="tel:+91-89680 92326"
+                    className="text-[#F1F5F9] text-md transition-colors duration-300 hover:text-[#D9A52E]"
+                  >
+                    +91-89680 92326
                   </a>
                 </div>
                 <div
