@@ -335,6 +335,7 @@ const Footer = () => {
                   >
                     +91-79860 67505
                   </a>
+                  <br></br>
                   <i className="fas fa-phone-alt text-[#D9A52E] text-lg min-w-5"></i>
                   <a
                     href="tel:+91-89680 92326"
