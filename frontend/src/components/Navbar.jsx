@@ -234,7 +234,7 @@ const Navbar = () => {
             </a>
 
             <a
-              href="tel:+918427899400"
+              href="tel:+917986067505"
               className="
                 flex items-center gap-1.5 sm:gap-2 
                 transition-colors duration-200
